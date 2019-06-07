@@ -16,7 +16,7 @@ Using the data provided by Kaggle [here](https://www.kaggle.com/martinellis/nhl-
 This graph is the same as the one above. However, two of the types of goals has been removed as "game tying" and "go ahead" were deemed to be the most important type of clutch goals for a player to score.
 ### Points of interest
 - Ovechkin has the most go ahead goals
-- Koptiar has the most combined go ahead and game tying goals
+- Kopitar has the most combined go ahead and game tying goals
 
 
 ## Clutch Goals Scored By A Player With OT, Separated By Playoff vs Regular Season
@@ -25,4 +25,3 @@ This graph is the same as the one above. However, two of the types of goals has 
 This graph displays goals scored in the last 5 minutes of the 3rd period or OTm separated by playoff and regular season games. Each player has his goals separated into 4 "types of goals" but only 2 are shown in this graph - game tying and go ahead. These are the only categories shown as they were deemed the "most important to show".
 ### Points of interest
 - Kane has the most playoff clutch goals
-- Koptiar has the most combined go ahead and game tying goals
