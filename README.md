@@ -11,7 +11,7 @@ Using the data provided by Kaggle [here](https://www.kaggle.com/martinellis/nhl-
 - Staal has the most game tying goals
 
 
-## Clutch Goals Scored By A Player 
+## Clutch Goals Scored By A Player - Only Go Ahead and Game Tying
 ![Points Graph](https://github.com/SimonSchmitke/NHL-Clutch-Players/raw/master/pointsGraph_noOther.png "Points Graph")
 This graph is the same as the one above. However, two of the types of goals has been removed as "game tying" and "go ahead" were deemed to be the most important type of clutch goals for a player to score.
 
