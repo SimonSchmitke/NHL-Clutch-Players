@@ -4,7 +4,7 @@ Graphs of the most clutch (most points in the last 5 minutes of the third period
 ## Clutch Goals Scored By A Player
 ![Points Graph](https://github.com/SimonSchmitke/NHL-Clutch-Players/raw/master/pointsGraph.png "Points Graph")
 
-Using the data provided by Kaggle [here](https://www.kaggle.com/martinellis/nhl-game-data) and R studio, the above graph was made. Using SQL and some simple if/else statements, I generated the graph to display the players who have the most goals in the last 5 minutes of the third period since 2011. Each player has his goals separated into 4 "types of goals" - reducing a deficit, game tying, go ahead, or advancing a lead. 
+Using the data provided by Kaggle [here](https://www.kaggle.com/martinellis/nhl-game-data) and R studio, the above graph was made. Using SQL and some simple if/else statements, I generated the graph using ggplot to display the players who have the most goals in the last 5 minutes of the third period since 2011. Each player has his goals separated into 4 "types of goals" - reducing a deficit, game tying, go ahead, or advancing a lead. 
 ### Points of interest
 - There are 3 Boston Bruins (Bergeron, Krejci and Marchand) who have made the list.
 - Ovechkin has the most goals overall
@@ -19,5 +19,5 @@ This graph is the same as the one above. However, two of the types of goals has 
 ## Clutch Goals Scored By A Player With OT, Separated By Playoff vs Regular Season
 ![Points Graph](https://github.com/SimonSchmitke/NHL-Clutch-Players/raw/master/pointsGraphOT.png "Points Graph with OT")
 
-Using the data provided by Kaggle [here](https://www.kaggle.com/martinellis/nhl-game-data) and R studio, the above graph was made. Using SQL and some simple if/else statements, I generated the graph to display the players who have the most goals in the last 5 minutes of the third period and OT since 2011, separated by playoff and regular season games. Each player has his goals separated into 4 "types of goals" but only 2 are shown in this graph - game tying and go ahead. These are the only categories shown as they were deemed the "most important to show".
+This graph displays goals scored in the last 5 minutes of the 3rd period or OTm separated by playoff and regular season games. Each player has his goals separated into 4 "types of goals" but only 2 are shown in this graph - game tying and go ahead. These are the only categories shown as they were deemed the "most important to show".
 
