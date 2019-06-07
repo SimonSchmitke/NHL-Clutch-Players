@@ -16,7 +16,7 @@ Using the data provided by Kaggle [here](https://www.kaggle.com/martinellis/nhl-
 This graph is the same as the one above. However, two of the types of goals has been removed as "game tying" and "go ahead" were deemed to be the most important type of clutch goals for a player to score.
 
 
-## Clutch Goals Scored By A Player With OT
+## Clutch Goals Scored By A Player With OT, Separated By Playoff vs Regular Season
 ![Points Graph](https://github.com/SimonSchmitke/NHL-Clutch-Players/raw/master/pointsGraphOT.png "Points Graph with OT")
 
 Using the data provided by Kaggle [here](https://www.kaggle.com/martinellis/nhl-game-data) and R studio, the above graph was made. Using SQL and some simple if/else statements, I generated the graph to display the players who have the most goals in the last 5 minutes of the third period and OT since 2011, separated by playoff and regular season games. Each player has his goals separated into 4 "types of goals" but only 2 are shown in this graph - game tying and go ahead. These are the only categories shown as they were deemed the "most important to show".
